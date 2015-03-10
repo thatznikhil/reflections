@@ -8,3 +8,7 @@ How is the staging area different from the working directory and the repository?
 	-It can be said to be intermediate of the two.
 	Before getting committed, the files are added into the staging area.
 	-Value: We can undo our decision to commit a file after adding into the staging area and also it helps to make a part of the repository to be commtted so as to make logical commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	-Add only one file in the stage area and then commit
