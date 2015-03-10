@@ -24,3 +24,7 @@ What are some situations when branches would be helpful in keeping your history 
 		Others: Experimental branch, a new fature branch(which u are working on and fully expecting to break)
 	-If working on a feature but have to go back and fix a bug on the master branch and then come back on the feature branch.
 	-For easy collaboration when working in a team.
+
+How do the diagrams help you visualize the branch structure?
+
+	-We can easily see which is the 'master' branch and which are the different other branches. And whether we could reach a particular commit from the current commit on the current branch.
