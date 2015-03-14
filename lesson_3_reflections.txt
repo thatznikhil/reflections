@@ -5,3 +5,8 @@ local?
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	-Because maybe some other people contribute on GitHub which we don't want to add to our local repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	-Fork: Getting a copy of a repository on Github to Github.
+	-Clone: Getting a copy of a repository on Github to local machine.
+	-Branch: Making a copy of an existing repository for experimenting/adding new feature.
